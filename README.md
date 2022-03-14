@@ -35,7 +35,7 @@ After, we create an [HTML template](https://github.com/nayanbarhate/Mission-to-M
 
 Lastly, we modified the HTML file to loop through the dictionary and pull the titles and images for the hemispheres of Mars.
 
-![orighemiphoto](https://github.com/nayanbarhate/Mission-to-Mars/blob/main/Images/orighemiphoto.png)
+![orighemiphoto](https://github.com/nayanbarhate/Mission-to-Mars/blob/main/Images/originhemiphoto.png)
 
 ### Deliverable 3: Add Bootstrap 3 Components
 
